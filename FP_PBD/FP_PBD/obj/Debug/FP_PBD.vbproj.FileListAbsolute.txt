@@ -1,0 +1,37 @@
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbproj.AssemblyReference.cache
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormLogin.resources
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.Resources.resources
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbproj.GenerateResource.cache
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbproj.CoreCompileInputs.cache
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\bin\Debug\FP_PBD.exe.config
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\bin\Debug\FP_PBD.exe
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\bin\Debug\FP_PBD.pdb
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\bin\Debug\FP_PBD.xml
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.exe
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.xml
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.pdb
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormPelanggan.resources
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.MenuUtama.resources
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormJenis.resources
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormAlat.resources
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormAdmin.resources
+D:\Buyung\Joki\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormTransaksi.resources
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\bin\Debug\FP_PBD.exe.config
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\bin\Debug\FP_PBD.exe
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\bin\Debug\FP_PBD.pdb
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\bin\Debug\FP_PBD.xml
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbproj.AssemblyReference.cache
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormAdmin.resources
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormAlat.resources
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormJenis.resources
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormLogin.resources
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormPelanggan.resources
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormTransaksi.resources
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.MenuUtama.resources
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.Resources.resources
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbproj.GenerateResource.cache
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbproj.CoreCompileInputs.cache
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.exe
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.xml
+C:\Users\Sidiq\Documents\SEMESTER 5\RPL\FPBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.pdb
